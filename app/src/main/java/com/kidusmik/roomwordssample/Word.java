@@ -15,7 +15,7 @@ public class Word {
         this.mWord = mWord;
     }
 
-    public String getmWord() {
+    public String getWord() {
         return mWord;
     }
 }
